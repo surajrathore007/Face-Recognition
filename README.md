@@ -45,4 +45,15 @@ or label this face belongs to.
 
 # Results
 
-https://github.com/surajrathore007/Face-Recognition/issues/1#issue-400967092
+# Methods
+![image](https://user-images.githubusercontent.com/29300053/51423168-a3ba5500-1be1-11e9-9c10-bf4904411888.png)
+
+
+# Dataset
+![image](https://user-images.githubusercontent.com/29300053/51423119-a10b3000-1be0-11e9-98fa-3991a416d5c0.png)
+
+
+# Result
+![image](https://user-images.githubusercontent.com/29300053/51423112-7f11ad80-1be0-11e9-975d-95d7d3f31dbb.png)
+
+
